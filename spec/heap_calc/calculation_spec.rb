@@ -1,8 +1,4 @@
-require 'minitest/spec'
-require 'minitest/autorun'
-require 'minitest/pride'
-
-#require 'minitest_helper'
+require 'minitest_helper'
 
 describe 'HeapCalc::Calculation' do
 
